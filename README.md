@@ -20,11 +20,14 @@ Requirements:
   6. Commmit your changes to the `develop` branch with a meaningful commit message
 
 **Task**
+
 Build an application in the `app.js` file that does the following:
   - Sends a `GET` request to the provided endpoint (refer to documentation below)
   - If the request is successful (HTTP code `200`), output the customer's email address to the console
   - If the request is not successful, output an error message to the console
 
 **dependencies**
+
 `rest` : [documentation](https://www.npmjs.com/package/rest) *use this to make your `GET` request*
+
 `dotenv` : [documentation](https://www.npmjs.com/package/dotenv)
