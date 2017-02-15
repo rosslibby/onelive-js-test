@@ -1,14 +1,14 @@
 # onelive-test
 
 This is a simple test to make sure you are familiar with the following:
-  - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [NodeJS](https://nodejs.org/en/)
-  - [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-  - [Git](https://git-scm.com/)
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript</a>
+  - <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>
+  - <a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm" target="_blank">REST</a>
+  - <a href="https://git-scm.com/" target="_blank">Git</a>
 
 ## Instructions
 **Requirements:**
-  - [NodeJS](https://nodejs.org/en/)
+  - <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>
   - NPM (should install with Node)
   
 **Getting started**
@@ -28,6 +28,6 @@ Build an application in the `app.js` file that does the following:
 
 **dependencies**
 
-`rest` : [documentation](https://www.npmjs.com/package/rest) *use this to make your `GET` request*
+`rest` : <a href="https://www.npmjs.com/package/rest" target="_blank">documentation</a> [*use this to make your `GET` request*]
 
-`dotenv` : [documentation](https://www.npmjs.com/package/dotenv)
+`dotenv` : <a href="https://www.npmjs.com/package/dotenv" target="_blank">documentation</a>
