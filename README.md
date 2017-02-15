@@ -15,7 +15,7 @@ Requirements:
   1. Clone the repo
   2. Checkout the `develop` branch
   3. Install node dependencies
-  4. Add the provided `.env` file to your project root
+  4. Add the provided `env.txt` file to your project root, **and rename it to `.env`**. Not `env.env`, just `.env` with nothing before the dot
   5. Complete the **task** (described below)
   6. Commmit your changes to the `develop` branch with a meaningful commit message
 
