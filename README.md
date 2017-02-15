@@ -7,7 +7,7 @@ This is a simple test to make sure you are familiar with the following:
   - [Git](https://git-scm.com/)
 
 ## Instructions
-Requirements:
+**Requirements:**
   - [NodeJS](https://nodejs.org/en/)
   - NPM (should install with Node)
   
