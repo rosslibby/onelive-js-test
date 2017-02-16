@@ -10,6 +10,7 @@ This is a simple test to make sure you are familiar with the following:
 **Requirements:**
   - <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>
   - NPM (should install with Node)
+  - Git
   
 **Getting started**
   1. Clone the repo
