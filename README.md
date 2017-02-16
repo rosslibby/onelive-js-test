@@ -5,6 +5,8 @@ This is a simple test to make sure you are familiar with the following:
   - <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>
   - <a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm" target="_blank">REST</a>
   - <a href="https://git-scm.com/" target="_blank">Git</a>
+  
+You may use any resource you like to complete this project. Please do not copy code directly from anyone else online (if you use something from a package's documentation, that is acceptable); if you _do_, please add a comment citing the source.
 
 ## Instructions
 **Requirements:**
