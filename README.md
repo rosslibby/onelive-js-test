@@ -23,6 +23,10 @@ You may use any resource you like to complete this project. Please do not copy c
   6. Commmit your changes to the `develop` branch with a meaningful commit message
   7. Push your changes to the `develop` branch
 
+**Things you do NOT need to do**
+  - Anything involving the dotenv module (already set up on line #3 in `app.js`)
+  - Any REST action beyond the first example in the module documentation (below)
+
 **Task**
 
 Build an application in the `app.js` file that does the following:
